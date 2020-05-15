@@ -9,7 +9,6 @@ class Customer
   end 
   
   def self.all
-    @all = all
-    all
+    @all
   end 
 end
