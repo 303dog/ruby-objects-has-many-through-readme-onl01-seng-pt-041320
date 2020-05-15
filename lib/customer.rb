@@ -22,3 +22,5 @@ class Customer
       meal.Customer == self
   end
 end
+
+end
