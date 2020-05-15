@@ -1,6 +1,6 @@
 class Meal
 
-  attr_accessor :waiter, :customer, :totla, :authenticate_or_request_with_http_digest
+  attr_accessor :waiter, :customer, :total, :tip 
   @@all = []
   
   def initialize(waiter, custmoer, total, tip=0)
